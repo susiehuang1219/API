@@ -15,5 +15,5 @@
 [fb_api_example_screenshot]
 
 
-[youtube_api_example_screenshot]:https://github.com/kukumaluhc/API/blob/master/screenshot/youtube_api_example.png
-[fb_api_example_screenshot]:https://github.com/kukumaluhc/API/blob/master/screenshot/fb_api_example.png
+[youtube_api_example_screenshot]:https://github.com/susiehuang1219/API/blob/master/screenshot/youtube_api_example.png
+[fb_api_example_screenshot]:https://github.com/susiehuang1219/API/blob/master/screenshot/fb_api_example.png
